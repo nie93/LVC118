@@ -1,0 +1,7 @@
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\LVC118Library.dll
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\LVC118Library.pdb
+C:\Users\niezj\Documents\dom\LVC118\LVC118Library\obj\Debug\LVC118Library.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\dom\LVC118\LVC118Library\obj\Debug\LVC118Library.dll
+C:\Users\niezj\Documents\dom\LVC118\LVC118Library\obj\Debug\LVC118Library.pdb

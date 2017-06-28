@@ -1,0 +1,10 @@
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\TestHarness\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\TestHarness\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\TestHarness\LVC118TestHarness.exe.config
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\TestHarness\LVC118TestHarness.exe
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\TestHarness\LVC118TestHarness.pdb
+C:\Users\niezj\Documents\dom\LVC118\LVC118TestHarness\obj\Debug\LVC118TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\dom\LVC118\LVC118TestHarness\obj\Debug\LVC118.Properties.Resources.resources
+C:\Users\niezj\Documents\dom\LVC118\LVC118TestHarness\obj\Debug\LVC118TestHarness.csproj.GenerateResource.Cache
+C:\Users\niezj\Documents\dom\LVC118\LVC118TestHarness\obj\Debug\LVC118TestHarness.exe
+C:\Users\niezj\Documents\dom\LVC118\LVC118TestHarness\obj\Debug\LVC118TestHarness.pdb
