@@ -203,7 +203,7 @@ namespace LVC118.VcSubRoutines
 
             if (vc.SubstationInformation.ConsecTap < vc.SubstationAlarmDevice.ZTCONS)
             {
-                vc.SubstationInformation.ConsecTap = vc.SubstationInformation.ConsecTap + 1;
+                vc.SubstationInformation.ConsecTap += 1;
 
                 m_messageInput += $"Control Delayed: Not enough Counts yet = [{vc.SubstationInformation.ConsecTap}<{vc.SubstationAlarmDevice.ZTCONS}] \n";
 

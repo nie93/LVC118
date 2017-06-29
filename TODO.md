@@ -3,8 +3,6 @@
 Zhijie Nie, 2017-06-28
 
 ## Program Development
-* (C#) Use XML file to close the loop between `ShadowSys118` and `LVC118` in case bi-directional 
-data feeding is not possible
 * (C#) Closing the loop between `ShadowSys118` and `LVC118`
 
 ## Documentation
@@ -69,3 +67,6 @@ Filename=C:\Program Files\openECA\Server\20170627_PseudoLVCSignals.csv; AutoRepe
 
 ## Completed Tasks
 * (C#) Realize previous LVC's funtionality and write ActionFlags to XML file locally
+* (C#) Add `ActionChannel` Class only with properties and XML serilization method
+* (C#) Use XML file to close the loop between `ShadowSys118` and `LVC118` in case bi-directional 
+data feeding is not possible
