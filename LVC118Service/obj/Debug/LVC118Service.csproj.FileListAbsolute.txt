@@ -1,0 +1,12 @@
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Service\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Service\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Service\LVC118Service.exe.config
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Service\LVC118Service.exe
+C:\Users\niezj\Documents\dom\LVC118\Deploy\Debug\Service\LVC118Service.pdb
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.DebugHost.resources
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.Properties.Resources.resources
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.ServiceHost.resources
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.csproj.GenerateResource.Cache
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.exe
+C:\Users\niezj\Documents\dom\LVC118\LVC118Service\obj\Debug\LVC118Service.pdb

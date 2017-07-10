@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ActionsAdapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ActTxRaise="0" ActTxLower="0" ActSn1Close="0" ActSn1Trip="0" ActSn2Close="1" ActSn2Trip="0" />
+<ActionsAdapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ActTxRaise="1" ActTxLower="0" ActSn1Close="0" ActSn1Trip="0" ActSn2Close="0" ActSn2Trip="0" />

@@ -2,17 +2,20 @@
 This is the Analytic project of Local Voltage Controller using IEEE 118-bus system, generated using 
 openECA Client v1.0.5.0.
 
-## Control Decision Threshold
 
-| CtrlDevice  | TapChanger | CapBank #1 | CapBank #2 | 
-| :---------: | ----: | ----: | ----: |
-| LowerBound  | 131.1 | 130.0 | 129.0 |
-| HigherBound | 133.8 | 132.0 | 133.0 |
+
+## Control Decision Thresholds
+
+| Configuration File  | TapChanger | CapBank #1 | CapBank #2 | 
+| :------------------ | :--------: | ----: | ----: |
+| init_SysConfigFrame_test1 | [131.1, 133.8] | [130.0, 135.0] | [129.0, 134.0] |
+| init_SysConfigFrame_test2 | [131.1, 133.8] | [130.0, 135.0] | [129.0, 134.0] |
+| init_SysConfigFrame_test3 | [131.1, 133.8] | [130.0, 135.0] | [126.0, 134.0] |
+
 
 ## I/Os
 | I/O | Name | DataType | PointTag | SignalType | SignalReference | ID (Assigned) |
 | :-: | :--- | :------- | :------- | :--------: | :-------------- | :------------ |
-| N/A | LoadIncrementPercentage | double | SS_118:LOADINCRE | DIGI | SS118-LOADINCRE | PPA:41 |
 | O | ActTxRaise      | short  | SS_118:ACTTXRAISE      | DIGI | SS118-ACTXRAISE   | PPA:42 |
 | O | ActTxLower      | short  | SS_118:ACTTXLOWER      | DIGI | SS118-ACTTXLOWER  | PPA:43 |
 | O | ActSn1Close     | short  | SS_118:ACTSN1CLOSE     | DIGI | SS118-ACTSN1CLOSE | PPA:44 |
@@ -33,3 +36,6 @@ openECA Client v1.0.5.0.
 | I | MeasGn1MvrV     | double | SS_118:MEASGN1MVRV     | CALC | SS118-MEASGN1MVRV  | PPA:59 |
 | I | MeasGn2MwV      | double | SS_118:MEASGN2MWV      | CALC | SS118-MEASGN2MWV   | PPA:60 |
 | I | MeasGn2MvrV     | double | SS_118:MEASGN2MVRV     | CALC | SS118-MEASGN2MVRV  | PPA:61 |
+| N/A | LoadIncrementPercentage | double | SS_118:LOADINCRE | DIGI | SS118-LOADINCRE | PPA:41 |
+
+

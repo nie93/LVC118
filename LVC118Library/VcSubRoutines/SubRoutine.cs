@@ -199,7 +199,7 @@ namespace LVC118.VcSubRoutines
 
             #endregion
 
-            #region [ Check for ZCONS consecutive trigers, or the use by the operators of the command which forces us to take action immediately ]
+            #region [ Check for ZCONS consecutive triggers, or the use by the operators of the command which forces us to take action immediately ]
 
             if (vc.SubstationInformation.ConsecTap < vc.SubstationAlarmDevice.ZTCONS)
             {
